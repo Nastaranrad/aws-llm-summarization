@@ -2,7 +2,7 @@
 # Dialogue Summarization with LLMs (FLAN-T5 + LoRA) — AWS Portfolio
 
 This repository demonstrates **text summarization with Large Language Models (LLMs)** using the
-**DialogSum** dataset and a **FLAN‑T5** model. It is inspired by standard LLM fine‑tuning workflows and adds production‑style touches so you can showcase real experience on GitHub.
+**DialogSum** dataset and a **FLAN‑T5** model.
 
 > Highlights
 > - Zero‑shot baseline with `google/flan-t5-base`
