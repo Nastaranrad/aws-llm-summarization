@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Quick Start (Inference)
+## Quick Start (Inference)
 
 Run a quick summary using the base FLAN‑T5 model:
 
@@ -83,7 +83,7 @@ python infer.py --file sample_dialog.txt
 
 ---
 
-## 🧪 Reproduce (locally or SageMaker)
+## Reproduce (locally or SageMaker)
 
 **Zero‑shot & evaluation** can be reproduced fully locally. For fine‑tuning, prefer a GPU (or SageMaker).
 
