@@ -58,14 +58,6 @@ python infer.py --file sample_dialog.txt
 ## 📚 Dataset
 
 - **DialogSum** (`knkarthick/dialogsum`) from Hugging Face Datasets.
-- Each record contains a `dialogue` and a human‑written `summary`.
-
-You can reproduce the dataset loading in your notebook like:
-
-```python
-from datasets import load_dataset
-dataset = load_dataset("knkarthick/dialogsum")
-```
 
 ---
 
