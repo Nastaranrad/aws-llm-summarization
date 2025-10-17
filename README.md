@@ -81,8 +81,6 @@ python infer.py --file sample_dialog.txt
    - Compute ROUGE‑1/2/L on test samples
    - Compare *original model* vs *fine‑tuned* vs *LoRA*
 
-> In the Coursera lab, you’ll see all of the above pieces as separate cells. This repo gives you a **clean way** to present the same skills publicly.
-
 ---
 
 ## 🧪 Reproduce (locally or SageMaker)
@@ -100,35 +98,3 @@ High‑level steps:
 
 ---
 
-## 📈 Portfolio Tips
-
-- Commit **notebook + results** (`media/` screenshots, ROUGE table).
-- In the README, include:
-  - **Architecture/flow** diagram (dataset → tokenizer → model → evaluation)
-  - A table with **ROUGE** before/after fine‑tuning
-  - **Costs & runtime** notes (and how you optimized them)
-- Add a short **demo video** (GIF/MP4) of `infer.py` running.
-
----
-
-## 🧩 Example Prompts
-
-```
-Summarize the following dialogue in 2-3 sentences. Focus on key decisions and outcomes.
-
-[dialogue text here]
-```
-
-```
-Provide a concise meeting summary with action items and dates.
-
-[dialogue text here]
-```
-
----
-
-## ✅ License
-
-MIT
-# aws-llm-summarization
-# aws-llm-summarization
