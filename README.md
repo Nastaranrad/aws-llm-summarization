@@ -24,9 +24,6 @@ aws-llm-summarization-portfolio/
 └── notebooks/                # (Optional) put course lab notebook here
 ```
 
-If you have your Coursera lab notebook (e.g. `Lab_2_fine_tune_generative_ai_model.ipynb`),
-place it under `notebooks/` and commit it. Add screenshots of results in a `media/` folder.
-
 ---
 
 ## 📦 Setup
