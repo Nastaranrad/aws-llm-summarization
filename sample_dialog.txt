@@ -1,0 +1,3 @@
+A: Hi, did you book the flights?
+B: Not yet, I need your passport details.
+A: I'll send them now. Let's fly Friday.
